@@ -1,0 +1,2 @@
+Auth.sql and Characters.sql contains Original Ahbot Account.
+Both account and pass are "ahbot".
